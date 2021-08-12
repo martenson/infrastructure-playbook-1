@@ -660,7 +660,6 @@ remote_cluster_mq_cz01:
     GALAXY_SLOTS: '{PARALLELISATION}'
     LC_ALL: C
     SINGULARITY_CACHEDIR: /storage/praha5-elixir/home/marten/pulsar/files/singularity_cache
-    SINGULARITY_TMPDIR: $SCRATCHDIR
     TMPDIR: $SCRATCHDIR
     TMP: $SCRATCHDIR
     TEMP: $SCRATCHDIR
